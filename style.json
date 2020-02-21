@@ -3678,7 +3678,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "text-color": "#333",
+        "text-color": "rgba(102, 102, 102, 1)",
         "text-halo-width": 1.2,
         "text-halo-color": "rgba(255,255,255,0.8)"
       }
@@ -3712,7 +3712,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "text-color": "#333",
+        "text-color": "rgba(102, 102, 102, 1)",
         "text-halo-width": 1.2,
         "text-halo-color": "rgba(255,255,255,0.8)"
       }
@@ -3996,7 +3996,7 @@
         "text-font": [
           "Noto Sans Regular"
         ],
-        "text-size": 14,
+        "text-size": 16,
         "text-anchor": "center",
         "text-max-width": 10,
         "text-offset": [
@@ -4006,7 +4006,7 @@
         "text-allow-overlap": false
       },
       "paint": {
-        "text-color": "#000000",
+        "text-color": "rgba(102, 102, 102, 1)",
         "text-halo-color": "#ffffff",
         "text-halo-width": 2
       }
